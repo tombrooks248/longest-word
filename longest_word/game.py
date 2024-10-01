@@ -19,3 +19,5 @@ class Game:
             if input_char_in_grid == False:
                 return False
         return True
+
+    # just adding a comment
